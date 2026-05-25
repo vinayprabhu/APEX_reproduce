@@ -3,3 +3,11 @@ The goal is to reproduce the results of the paper "Computational exploration of 
 
 # Links:
 URL: https://www.nature.com/articles/s41467-025-60051-6
+
+# Dataset shared here
+
+- conoserver_250206_protein.fa : Conoserver copy given that the website is sometimes down these days
+- df_counts_supplementary_table_1.csv : Dataframe capturing the values shared in supplementary table 1 of the paper
+- df_final_58.tsv : Dataframe capturing the final 58 VEPs declared from Table 2 in the supplement
+- df_mic_4618.csv : Hand generated datyaframe of MIC values for the 4618 peptides shared in Supplementary data that was supposed to contain: _1:List of VEP predicted by APEX to have a median MIC ≤32 μmol_
+- df_mic_56.csv : Hand generated 56 x 34 matrix of MIC values for the final 56 VEPs discovered in the paper
